@@ -1,0 +1,27 @@
+button {
+	width: 200px;
+}
+
+#sidenav {
+float:10px;
+height:90%;
+width:100%;
+background-repeat:x;
+}
+
+.demo-card-image.mdl-card {
+  width: 256px;
+  height: 256px;
+  background: url('../css/img/ic_account_circle_white_24dp_2x.png') center / cover;
+}
+.demo-card-image > .mdl-card__actions {
+  height: 52px;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.2);
+}
+.demo-card-image__filename {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
